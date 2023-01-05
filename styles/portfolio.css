@@ -30,7 +30,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    Padding: 50px 200px;
 }
 
 nav ul {
@@ -212,6 +212,7 @@ input{
 }
 .contact a{
     text-decoration: none;
+    
 }
 .contact-description{
     padding-bottom: 20px;
